@@ -1,7 +1,7 @@
 # Mussadiq Khan
-### Frontend-Focused Full-Stack Developer · Next.js & TypeScript Specialist
+### Frontend-Focused Full-Stack Developer · Next.js, TypeScript & MongoDB 
 
-> I build industry-level web products that convert business — not just landing pages.
+> I build industry-level web products that convert business not just landing pages.
 
 📍 Islamabad, Pakistan &nbsp;·&nbsp; [Portfolio](http://mussadiqkhan.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mussadiq-khan-dev/) &nbsp;·&nbsp; [mussadiqkhan6886@gmail.com](mailto:mussadiqkhan6886@gmail.com)
 
