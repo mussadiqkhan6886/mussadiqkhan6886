@@ -15,8 +15,6 @@
 - Consistently deliver **99+ Lighthouse SEO scores** across every project
 - I don't just write code — I solve business problems with it
 
----
-
 ## What I've Done
 
 ```
@@ -38,9 +36,6 @@
 | **Backend** | Next.js API Routes, MongoDB, JWT, NodeMailer |
 | **State** | Redux Toolkit, React Query, Context API |
 | **UI & Motion** | Shadcn/ui, Framer Motion, GSAP, MUI |
-| **SEO** | Technical SEO, Core Web Vitals, JSON-LD, Google Search Console |
-| **Design** | Figma, Adobe Photoshop, Illustrator |
-
 
 ---
 
