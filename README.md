@@ -28,17 +28,6 @@
 
 ---
 
-## Stack
-
-| Layer | Technologies |
-|---|---|
-| **Frontend** | Next.js 16, React, TypeScript, Tailwind CSS |
-| **Backend** | Next.js API Routes, MongoDB, JWT, NodeMailer |
-| **State** | Redux Toolkit, React Query, Context API |
-| **UI & Motion** | Shadcn/ui, Framer Motion, GSAP, MUI |
-
----
-
 ## Currently
 
 - 🟢 **Open to full-time or contract frontend / full-stack roles**
