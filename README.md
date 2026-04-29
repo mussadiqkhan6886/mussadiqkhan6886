@@ -1,4 +1,4 @@
-# Mussadiq Khan
+# Hello World👋
 ### Frontend-Focused Full-Stack Developer · Next.js, TypeScript & MongoDB 
 
 > I build industry-level web products that convert business not just landing pages.
