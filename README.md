@@ -19,7 +19,7 @@
 
 ```
 20+  production websites delivered
- 3   countries — Pakistan · Saudi Arabia · UK
+ 3   countries: Pakistan · Saudi Arabia · UK
  1+  year of hands-on client work
  1   agency founded and operated solo
 ```
@@ -31,5 +31,6 @@
 ## Currently
 
 - 🟢 **Open to full-time or contract frontend / full-stack roles**
+- **Learning MERN & PERN**
 - 📬 [mussadiqkhan6886@gmail.com](mailto:mussadiqkhan6886@gmail.com)
 - 💼 [linkedin.com/in/mussadiq-khan-dev](https://www.linkedin.com/in/mussadiq-khan-dev/)
