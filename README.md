@@ -169,7 +169,7 @@ flowchart LR
 
 ## 🌱 Currently
 
-- 🔭 Exploring PERN, system design, AI and cloud architecture
+- 🔭 Exploring system design, AI and cloud architecture
 - 🟢 **Open to full-time, contract and freelance roles** (Full Stack / Frontend / Backend)
 
 ---
