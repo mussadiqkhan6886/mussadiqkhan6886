@@ -69,7 +69,6 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Testing & Quality**
-
 <br/>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -108,6 +107,7 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 
 🔗 **[View Repository](https://github.com/mussadiqkhan6886/TaskFlow_AI)**
 🔗 **[Live Link](http://taskflow-alb-862843803.eu-north-1.elb.amazonaws.com/)**
+
 
 ## 🔄 How I Ship: Code to Cloud
 
