@@ -153,20 +153,6 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mussadiqkhan6886&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussadiqkhan6886&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=mussadiqkhan6886&theme=tokyonight&hide_border=true" alt="streak" />
-
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔭 Exploring system design, AI and cloud architecture
