@@ -19,7 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Engineer** who owns the full delivery cycle from UI/UX and clean API design to security, caching, real-time features, testing, containerization, and cloud deployment.
+I'm a Full-Stack Engineer with 2 years shipping production TypeScript applications (Next.js, Express, PostgreSQL/MongoDB). Delivered 
+20+ client sites across Pakistan, Saudi Arabia, and the UK with 99+ Lighthouse scores and sub-1s page loads, and built systems with 
+JWT/RBAC auth, Redis caching, real-time features, and CI/CD to AWS with 90%+ test coverage. Seeking a Software Engineer role.
 
 I don't just write code. I build products that **load fast, rank on Google, scale under traffic, and generate real business value**.
 
@@ -88,15 +90,17 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 ### 🤖 TaskFlow AI — Distributed Task Management & Collaboration Platform
 **Production-grade full-stack system with RBAC, real-time collaboration, AI, and cloud-native deployment.**
 
-**Stack:** Next.js · TypeScript · Express · MongoDB · Redis · Socket.IO · Zod · Gemini API · Docker · GitHub Actions · AWS ECS Fargate
+**Stack:** Next.js · TanStack Query · TypeScript · Express · MongoDB · Redis · Socket.IO · Zod · Gemini API · Docker · CI/CD · AWS ECS Fargate
 
 **Engineering Highlights**
-- RBAC (Admin / Manager / Employee) with JWT access + refresh tokens in HTTP-only cookies and record-level ownership checks
-- Redis cache-aside layer with role-based caching, SCAN-based invalidation, and layered rate limiting
-- Real-time collaboration via Socket.IO (rooms, read receipts, notifications, cursor-based pagination)
-- Gemini API integration for AI task summarization and priority classification
-- 90%+ backend test coverage (225 automated tests) using Vitest, Supertest, React Testing Library & Playwright E2E
-- 4-stage GitHub Actions CI/CD pipeline → Docker → Amazon ECR → AWS ECS Fargate via OIDC (no long-lived credentials)
+- Built a full-stack platform with RBAC (Admin/Manager/Employee), private JWT-protected APIs (access/refresh tokens in HTTP
+only cookies), bcrypt hashing, authenticated Socket.IO, and server-enforced record-level ownership checks. 
+- Implemented Redis cache-aside caching, SCAN-based invalidation, Zod validation, and layered rate limiting; built real-time 
+collaboration with Socket.IO (rooms, notifications, read receipts) and cursor-paginated chat using TanStack Query. 
+- Integrated Gemini API for AI task summarization & priority classification; achieved 90%+ backend test coverage (225 automated 
+tests) with Vitest, Supertest, React Testing Library, and Playwright E2E; documented APIs with Swagger. 
+- Designed 4-stage GitHub Actions CI/CD pipeline that tests, containerizes, and deploys Docker images to Amazon ECR + AWS 
+ECS Fargate via OIDC (no long-lived credentials). 
 
 🔗 [Live Demo](http://taskflow-alb-862843803.eu-north-1.elb.amazonaws.com) · [Repository](https://github.com/mussadiqkhan6886/TaskFlow_AI)
 
@@ -105,31 +109,19 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 ### 🛒 Lifestyle Shopping UK — Full-Stack E-Commerce Platform
 **Live production store serving real customers with transactional integrity and high performance.**
 
-**Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Zod · React Hook Form · Cloudinary · JWT
+**Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Zod · React Hook Form · Cloudinary · JWT · TanStack Query
 
 **Engineering Highlights**
-- JWT-secured admin dashboard (products, orders, promo codes, reviews)
-- Idempotent transactional checkout with server-side pricing, promo/shipping logic, and atomic stock updates (prevents overselling)
-- Product pagination (<0.5s load) + debounced search
-- COD + bank-transfer payments with Cloudinary proof upload
-- HTTP-only JWT cookies, Zod + React Hook Form validation, rate limiting
-- **100 Lighthouse Performance** + strong technical SEO
+- Built a production e-commerce platform with a Next.js App Router frontend (ISR product pages via generateStaticParams, 60s 
+revalidation, server-fetched data hydrated into TanStack Query) and an Express API with private, JWT-protected admin routes. 
+- Engineered an idempotent transactional checkout where the Express backend recalculates pricing, promo, and shipping and 
+never trusts the frontend, with atomic stock updates to prevent overselling. 
+- Added a Gemini-powered, SEO-focused product description writer to the admin panel, restricted to admin by JWT and 
+protected by rate limiting, to speed up catalog management. 
+- Supported COD and bank transfer with Cloudinary proof upload, secured by HttpOnly JWT cookies, Zod validation, and rate 
+limiting; achieved 100 Lighthouse Performance with sub-0.5s paginated loads via prerendering and next/image. 
 
 🔗 [Live Site](https://www.lifestyleshoppinguk.com) · [Repository](https://github.com/mussadiqkhan6886/lifestyle)
-
----
-
-### 🍪 Chunk’d Cookies — Product-Drop E-Commerce
-**Production store for a Lahore cookie brand with complex purchase flows.**
-
-**Stack:** Next.js · TypeScript · MongoDB · Cloudinary · JWT
-
-- Three purchase flows (single items, bundles, build-your-own box) + limited-edition drops
-- Real-time box builder, coupon engine, city-based delivery pricing
-- JWT-secured admin dashboard with revenue analytics and review moderation
-- **100/100 Lighthouse Performance & SEO**
-
-🔗 [Live Site](https://www.chunkdpk.com) · [Repository](https://github.com/mussadiqkhan6886/chunkd)
 
 ---
 
