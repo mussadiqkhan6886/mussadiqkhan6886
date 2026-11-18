@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mussadiqkhan6886@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/immk6886/)
 
-📍 Islamabad, Pakistan &nbsp;·&nbsp; 🟢 **Open to full-time, contract & freelance roles**
+📍 Islamabad, Pakistan &nbsp;·&nbsp; **Open to full-time, contract & freelance roles**
 
 </div>
 
@@ -25,15 +25,15 @@ JWT/RBAC auth, Redis caching, real-time features, and CI/CD to AWS with 90%+ tes
 
 I don't just write code. I build products that **load fast, rank on Google, scale under traffic, and generate real business value**.
 
-> 💡 *"A feature isn't done when it works on my machine. It's done when it's deployed, monitored, and making someone's business better."*
+> *"A feature isn't done when it works on my machine. It's done when it's deployed, monitored, and making someone's business better."*
 
 ---
 
-## 📊 Impact at a Glance
+## Impact at a Glance
 
 <div align="center">
 
-| 🚀 **20+** | 🌍 **3** | ⚡ **99+** | 🏢 **1** |
+| **20+** | **3** | **99+** | **1** |
 |:---:|:---:|:---:|:---:|
 | Production websites delivered | Countries served<br/>🇵🇰 🇸🇦 🇬🇧 | Lighthouse scores<br/>across projects | Agency founded<br/>& run (Scrupulous) |
 
@@ -43,7 +43,7 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -85,9 +85,9 @@ I don't just write code. I build products that **load fast, rank on Google, scal
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 TaskFlow AI — Distributed Task Management & Collaboration Platform
+### TaskFlow AI — Distributed Task Management & Collaboration Platform
 **Production-grade full-stack system with RBAC, real-time collaboration, AI, and cloud-native deployment.**
 
 **Stack:** Next.js · TanStack Query · TypeScript · Express · MongoDB · Redis · Socket.IO · Zod · Gemini API · Docker · CI/CD · AWS ECS Fargate
@@ -106,7 +106,7 @@ ECS Fargate via OIDC (no long-lived credentials).
 
 ---
 
-### 🛒 Lifestyle Shopping UK — Full-Stack E-Commerce Platform
+### Lifestyle Shopping UK — Full-Stack E-Commerce Platform
 **Live production store serving real customers with transactional integrity and high performance.**
 
 **Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Zod · React Hook Form · Cloudinary · JWT · TanStack Query
@@ -125,7 +125,7 @@ limiting; achieved 100 Lighthouse Performance with sub-0.5s paginated loads via 
 
 ---
 
-## 🔄 How I Ship: Code → Cloud
+## How I Ship: Code → Cloud
 
 ```mermaid
 flowchart LR
@@ -144,7 +144,7 @@ flowchart LR
 
 ---
 
-## 🧠 How I Think
+## How I Think
 
 - **Business first** — Every technical decision should move the client’s goal forward.
 - **Performance is a feature** — Speed, SEO, and accessibility are part of the build, not a cleanup task.
@@ -154,7 +154,7 @@ flowchart LR
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
 | | |
 |---|---|
@@ -167,14 +167,14 @@ flowchart LR
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - Exploring system design, advanced caching patterns, and cloud architecture
-- 🟢 **Open to full-time, contract, and freelance roles** (Full-Stack / Software Engineer)
+- **Open to full-time, contract, and freelance roles** (Full-Stack / Software Engineer)
 
 ---
 
-## 🤝 Let's Work Together
+## Let's Work Together
 
 Looking for a Full-Stack Engineer who can take a product from idea → production on the cloud?
 
