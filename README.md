@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full-Stack Engineer with 2 years shipping production TypeScript applications (Next.js, Express, PostgreSQL/MongoDB). Delivered 
 20+ client sites across Pakistan, Saudi Arabia, and the UK with 99+ Lighthouse scores and sub-1s page loads, and built systems with 
